@@ -1,7 +1,7 @@
 ## Paul Cruz
 
 **Desarrollador full-stack** — TypeScript · React · Astro · Node<br>
-Lima, Perú · Disponible para remoto
+Cusco, Perú · Disponible para remoto
 
 Construyo pipelines de datos, APIs tipadas y aplicaciones web que llegan a producción.
 Últimamente trabajo bastante en scraping de fuentes difíciles, tipado end-to-end y
@@ -45,7 +45,7 @@ son los públicos.
 <br>
 
 **Full-stack developer** — TypeScript · React · Astro · Node<br>
-Lima, Peru · Open to remote
+Cusco, Peru · Open to remote
 
 I build data pipelines, typed APIs and web apps that actually ship. Lately I work a lot
 on scraping hard-to-reach sources, end-to-end type safety, and LLM tooling (MCP).
