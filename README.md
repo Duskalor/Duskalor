@@ -17,11 +17,10 @@ son los públicos.
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | **[remaju-tracker](https://github.com/Duskalor/remaju-tracker)** | Scrapea REMAJU, el registro de remates judiciales del Poder Judicial del Perú: un portal JSF antiguo con navegación por ViewState y WAF. Convierte los avisos en registros estructurados y los expone vía API tipada y dashboard. | Turborepo · Playwright · Hono · tRPC · Drizzle · Next.js 14 |
-| **[get-data-from-deltron](https://github.com/Duskalor/get-data-from-deltron)** | Monorepo con dos apps sobre una misma base: un scraper HTTP del catálogo de un distribuidor de hardware y un **servidor MCP** para que una IA cotice PCs desde ese catálogo. | TypeScript · MongoDB · MCP · pnpm workspaces |
+| **[get-data-from-deltron](https://github.com/Duskalor/get-data-from-deltron)** | Monorepo con dos apps sobre una misma base: un scraper HTTP del catálogo de un distribuidor de hardware y un **servidor MCP** para que una IA cotice PCs desde ese catálogo. Con lógica de compatibilidad de componentes, tipo de cambio y generación de PDF, cubierta por 15 archivos de tests. | TypeScript · MongoDB · MCP · pnpm workspaces |
 | **[create-dusk-app](https://github.com/Duskalor/create-dusk-app)** · [npm](https://www.npmjs.com/package/create-dusk-app) | CLI que genera landing pages con Astro + Tailwind a partir de cuatro plantillas. Publicado e instalable con `npx create-dusk-app`. | TypeScript · Astro · Sanity |
-| **[greenGoldenCusco](https://github.com/Duskalor/greenGoldenCusco)** · [demo](https://duskalor.github.io/greenGoldenCusco/) | Web para una agencia de turismo en Cusco — tres idiomas, dos monedas, galería multimedia. | Astro · Tailwind |
+| **[greenGoldenCusco](https://github.com/Duskalor/greenGoldenCusco)** · [demo](https://duskalor.github.io/greenGoldenCusco/) | Web para una agencia de turismo en Cusco — tres idiomas, dos monedas, galería multimedia. | Next.js 16 · React 19 · Tailwind 4 |
 | **[dusk-app](https://github.com/Duskalor/dusk-app)** | Starter kit de landing page para restaurantes con CMS en Sanity. | Astro 6 · Tailwind 4 · Sanity v5 |
-| **[Inventario-Redux](https://github.com/Duskalor/Inventario-Redux)** | App de inventario full-stack en monorepo con npm workspaces, separada en `web` y `api`. | React · Express · TypeScript |
 
 ### Stack
 
@@ -57,9 +56,8 @@ Most of my client work lives in private repos. The projects above are the public
 | **remaju-tracker** | Scrapes REMAJU, Peru's judicial auction registry — a legacy JSF portal with ViewState navigation and a WAF. Parses listings into structured records and serves them through a typed API and a dashboard. |
 | **get-data-from-deltron** | Monorepo with two apps on one database: an HTTP scraper for a hardware distributor's catalog, and an **MCP server** that lets an LLM quote PC builds from it. |
 | **create-dusk-app** | CLI that scaffolds Astro + Tailwind landing pages from four templates. Published on npm. |
-| **greenGoldenCusco** | Website for a tour agency in Cusco — three languages, two currencies, multimedia gallery. |
+| **greenGoldenCusco** | Website for a tour agency in Cusco — three languages, two currencies, multimedia gallery. Next.js 16 + React 19. |
 | **dusk-app** | Restaurant landing-page starter kit backed by a Sanity CMS. |
-| **Inventario-Redux** | Full-stack inventory app in an npm-workspaces monorepo, split into `web` and `api`. |
 
 **Contact:** [Portfolio](https://portfolio-duskadev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/duskalor/) · duskadev@gmail.com
 
